@@ -1,0 +1,2 @@
+(this.webpackJsonpbasic_from_garry=this.webpackJsonpbasic_from_garry||[]).push([[0],{9:function(e,r,c){"use strict";c.r(r);var t=c(1),n=c.n(t),s=c(3),a=c.n(s),i=c(0);var o=function(){return Object(i.jsx)("div",{className:"App",children:Object(i.jsx)("h1",{children:"Hello from React"})})};a.a.render(Object(i.jsx)(n.a.StrictMode,{children:Object(i.jsx)(o,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.4c491f8e.chunk.js.map
