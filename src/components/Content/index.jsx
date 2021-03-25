@@ -1,14 +1,14 @@
-import Contacts from "../Contacts";
+import Contacts from '../Contacts';
 
-import Products from "../pages/Products";
+import Products from '../pages/Products';
 const Content = () => {
-  const { pathname } = window.location;
-  return (
-    <div className="content">
-      {pathname === "/products" && <Products />}
-      {pathname === "/contacts" && <Contacts />}
-    </div>
-  );
+    const { pathname } = window.location;
+    return (
+        <div className="content">
+            {pathname === '/products' && <Products />}
+            {pathname === '/contacts' && <Contacts />}
+        </div>
+    );
 };
 
 export default Content;

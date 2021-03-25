@@ -2,11 +2,12 @@
   "name": "basic_from_garry",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://js-full-stack.github.io/goit-react-hw-01-components",
+  "homepage": "https://js-full-stack.github.io/basic_from_garry",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.8.3",
+    "modern-normalize": "^1.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.3",
@@ -39,6 +40,9 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.1.0"
+    "gh-pages": "^3.1.0",
+    "husky": "^4.3.8",
+    "lint-staged": "^10.5.4",
+    "prettier": "^2.2.1"
   }
 }
