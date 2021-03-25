@@ -1,17 +1,24 @@
 {
   "files": {
-    "main.js": "/basic_from_garry/static/js/main.4c491f8e.chunk.js",
-    "main.js.map": "/basic_from_garry/static/js/main.4c491f8e.chunk.js.map",
-    "runtime-main.js": "/basic_from_garry/static/js/runtime-main.69858088.js",
-    "runtime-main.js.map": "/basic_from_garry/static/js/runtime-main.69858088.js.map",
-    "static/js/2.9d3b31a2.chunk.js": "/basic_from_garry/static/js/2.9d3b31a2.chunk.js",
-    "static/js/2.9d3b31a2.chunk.js.map": "/basic_from_garry/static/js/2.9d3b31a2.chunk.js.map",
-    "index.html": "/basic_from_garry/index.html",
-    "static/js/2.9d3b31a2.chunk.js.LICENSE.txt": "/basic_from_garry/static/js/2.9d3b31a2.chunk.js.LICENSE.txt"
+    "main.css": "/goit-react-hw-01-components/static/css/main.8da358f9.chunk.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.46105449.chunk.js",
+    "main.js.map": "/goit-react-hw-01-components/static/js/main.46105449.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-01-components/static/js/runtime-main.76591b74.js",
+    "runtime-main.js.map": "/goit-react-hw-01-components/static/js/runtime-main.76591b74.js.map",
+    "static/js/2.475931f0.chunk.js": "/goit-react-hw-01-components/static/js/2.475931f0.chunk.js",
+    "static/js/2.475931f0.chunk.js.map": "/goit-react-hw-01-components/static/js/2.475931f0.chunk.js.map",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "static/css/main.8da358f9.chunk.css.map": "/goit-react-hw-01-components/static/css/main.8da358f9.chunk.css.map",
+    "static/js/2.475931f0.chunk.js.LICENSE.txt": "/goit-react-hw-01-components/static/js/2.475931f0.chunk.js.LICENSE.txt",
+    "static/media/analitics.ac063258.jpg": "/goit-react-hw-01-components/static/media/analitics.ac063258.jpg",
+    "static/media/art.2344e958.jpg": "/goit-react-hw-01-components/static/media/art.2344e958.jpg",
+    "static/media/cactus.405f2222.jpg": "/goit-react-hw-01-components/static/media/cactus.405f2222.jpg",
+    "static/media/lemon.20900dba.jpg": "/goit-react-hw-01-components/static/media/lemon.20900dba.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.69858088.js",
-    "static/js/2.9d3b31a2.chunk.js",
-    "static/js/main.4c491f8e.chunk.js"
+    "static/js/runtime-main.76591b74.js",
+    "static/js/2.475931f0.chunk.js",
+    "static/css/main.8da358f9.chunk.css",
+    "static/js/main.46105449.chunk.js"
   ]
 }
